@@ -20,6 +20,8 @@ Fetch featured below is [Windows screenFetch](https://github.com/JulianChow94/Wi
 
 ![Rosé Pine for Windows Terminal](https://media.discordapp.net/attachments/650043136428736558/776607553273462804/imagen_2020-11-12_194104.png?width=1920&height=1080)
 
+![Rosé Pine for Windows Terminal](https://media.discordapp.net/attachments/650043136428736558/776819335997161502/rosepine3.PNG?width=1920&height=1080)
+
 ## Thanks to
 
 - [Jimmysit0](https://github.com/Jimmysit0)
