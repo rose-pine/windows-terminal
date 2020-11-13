@@ -10,7 +10,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 1. Find the schemes section and paste the content of settings.json.
 2. Find the profiles section and add a colorScheme value to it
-`"colorScheme" : "rose pine"`
+`"colorScheme" : "rose-pine"`
 
 ## Screenshots
 
