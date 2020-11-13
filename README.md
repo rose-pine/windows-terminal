@@ -16,6 +16,8 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 
 ## Screenshots
 
+Fetch featured below is [Windows screenFetch](https://github.com/JulianChow94/Windows-screenFetch)
+
 ![Rosé Pine for Windows Terminal](https://media.discordapp.net/attachments/650043136428736558/776607553273462804/imagen_2020-11-12_194104.png?width=1920&height=1080)
 
 ## Thanks to
