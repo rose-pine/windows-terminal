@@ -13,10 +13,9 @@
 
 ## Usage
 
-> Tip: If you have `npx`, replace "git clone" with "npx degit"
-
-1. In settings, paste the contents of `rose-pine-scheme.json` in `schemes`
+1. In settings, paste the contents of one of `rose-pine.json` in `schemes`
 2. Under profiles, add `"colorScheme" : "rose-pine"`
+3. Optionally, repeat for `rose-pine-moon` and `rose-pine-dawn`
 
 ## Gallery
 
@@ -29,4 +28,3 @@ Fetch featured below is [Windows screenFetch](https://github.com/JulianChow94/Wi
 ## Thanks to
 
 - [Jimmysit0](https://github.com/Jimmysit0)
-

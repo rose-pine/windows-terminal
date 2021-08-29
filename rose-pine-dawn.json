@@ -1,0 +1,26 @@
+{
+  "name": "rose-pine-dawn",
+
+  "cursorColor": "#9893a5",
+  "selectionBackground": "#eee9e6",
+
+  "background": "#faf4ed",
+  "foreground": "#575279",
+
+  "black": "#f2e9de",
+  "blue": "#56949f",
+  "cyan": "#d7827e",
+  "green": "#286983",
+  "purple": "#907aa9",
+  "red": "#b4637a",
+  "white": "#575279",
+  "yellow": "#ea9d34",
+  "brightBlack": "#6e6a86",
+  "brightBlue": "#56949f",
+  "brightCyan": "#d7827e",
+  "brightGreen": "#286983",
+  "brightPurple": "#907aa9",
+  "brightRed": "#b4637a",
+  "brightWhite": "#575279",
+  "brightYellow": "#ea9d34"
+}
