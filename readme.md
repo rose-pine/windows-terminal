@@ -29,15 +29,15 @@
 
 **Rosé Pine**
 
-![Rosé Pine for Windows Terminal](https://github.com/rose-pine/windows-terminal/raw/main/assets/rose-pine.png)
+![Rosé Pine for Windows Terminal](./assets/rose-pine.png)
 
 **Rosé Pine Moon**
 
-![Rosé Pine Moon for Windows Terminal](https://github.com/rose-pine/windows-terminal/raw/main/assets/rose-pine-moon.png)
+![Rosé Pine Moon for Windows Terminal](./assets/rose-pine-moon.png)
 
 **Rosé Pine Dawn**
 
-![Rosé Pine Dawn for Windows Terminal](https://github.com/rose-pine/windows-terminal/raw/main/assets/rose-pine-dawn.png)
+![Rosé Pine Dawn for Windows Terminal](./assets/rose-pine-dawn.png)
 
 ## Thanks to
 
