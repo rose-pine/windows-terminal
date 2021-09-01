@@ -19,11 +19,17 @@
 
 ## Gallery
 
-Fetch featured below is [Windows screenFetch](https://github.com/JulianChow94/Windows-screenFetch)
+**Rosé Pine**
 
-![Rosé Pine for Windows Terminal](https://media.discordapp.net/attachments/650043136428736558/776607553273462804/imagen_2020-11-12_194104.png?width=1920&height=1080)
+![Rosé Pine for Windows Terminal](https://github.com/rose-pine/windows-terminal/raw/main/assets/rose-pine.png)
 
-![Rosé Pine for Windows Terminal](https://media.discordapp.net/attachments/650043136428736558/776819335997161502/rosepine3.PNG?width=1920&height=1080)
+**Rosé Pine Moon**
+
+![Rosé Pine Moon for Windows Terminal](https://github.com/rose-pine/windows-terminal/raw/main/assets/rose-pine-moon.png)
+
+**Rosé Pine Dawn**
+
+![Rosé Pine Dawn for Windows Terminal](https://github.com/rose-pine/windows-terminal/raw/main/assets/rose-pine-dawn.png)
 
 ## Thanks to
 
