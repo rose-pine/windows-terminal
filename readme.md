@@ -13,9 +13,17 @@
 
 ## Usage
 
-1. In settings, paste the contents of one of `rose-pine.json` in `schemes`
-2. Under profiles, add `"colorScheme" : "rose-pine"`
-3. Optionally, repeat for `rose-pine-moon` and `rose-pine-dawn`
+1. In settings, paste the contents of one of the theme files (e.g. `rose-pine.json`) in `schemes`
+2. Update `defaults` to include your chosen scheme:
+
+```"profiles":
+    {
+        "defaults":
+        {
+            "colorScheme": "rose-pine"
+        },
+    }
+```
 
 ## Gallery
 
