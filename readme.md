@@ -13,16 +13,25 @@
 
 ## Usage
 
-1. In settings, paste the contents of one of the theme files (e.g. `rose-pine.json`) in `schemes`
+1. In settings json, paste the contents of one of the scheme files (e.g. `rose-pine.scheme.json`) in `schemes` and the corresponding theme (e.g. `rose-pine.theme.json`) in `themes`
 2. Update `defaults` to include your chosen scheme:
 
-```"profiles":
-    {
-        "defaults":
-        {
+```json
+{
+    "profiles": {
+        "defaults": {
             "colorScheme": "rose-pine"
-        },
+        }
     }
+}
+```
+
+3. Update `theme` to use your chosen theme:
+
+```json
+{
+    "theme": "rose-pine"
+}
 ```
 
 ## Gallery
