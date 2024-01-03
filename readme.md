@@ -13,26 +13,28 @@
 
 ## Usage
 
-1. In settings json, paste the contents of one of the scheme files (e.g. `rose-pine.scheme.json`) in `schemes` and the corresponding theme (e.g. `rose-pine.theme.json`) in `themes`
-2. Update `defaults` to include your chosen scheme:
+1. Open `settings.json` from Windows Terminal
+2. In the `schemes` section of the file, paste the contents of your chosen scheme file (e.g. `rose-pine.scheme.json`)
+3. Navigate to the `themes` section and paste the contents of the corresponding theme file (e.g. `rose-pine.theme.json`).
+4. Update `colorScheme` within the `profiles` section to include your chosen scheme:
 
-```json
-{
-    "profiles": {
-        "defaults": {
-            "colorScheme": "rose-pine"
+    ```json
+    {
+        "profiles": {
+            "defaults": {
+                "colorScheme": "rose-pine"
+            }
         }
     }
-}
-```
+    ```
 
-3. Update `theme` to use your chosen theme:
+5. Update `theme` to use your chosen theme:
 
-```json
-{
-    "theme": "rose-pine"
-}
-```
+    ```json
+    {
+        "theme": "rose-pine"
+    }
+    ```
 
 ## Gallery
 
