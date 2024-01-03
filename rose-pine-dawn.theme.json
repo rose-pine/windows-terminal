@@ -1,0 +1,16 @@
+{
+  "name": "rose-pine-dawn",
+  "tab": {
+    "background": "#FAF4EDFF",
+    "showCloseButton": "always",
+    "unfocusedBackground": null
+  },
+  "tabRow": {
+    "background": "#F2E9E1FF",
+    "unfocusedBackground": "#797593FF"
+  },
+  "window": {
+    "applicationTheme": "light",
+    "useMica": false
+  }
+}
