@@ -1,8 +1,8 @@
 {
   "name": "rose-pine-moon",
 
-  "cursorColor": "#59546d",
-  "selectionBackground": "#312f44",
+  "cursorColor": "#6e6a86",
+  "selectionBackground": "#44415a",
 
   "background": "#232136",
   "foreground": "#e0def4",
@@ -15,7 +15,7 @@
   "red": "#eb6f92",
   "white": "#e0def4",
   "yellow": "#f6c177",
-  "brightBlack": "#817c9c",
+  "brightBlack": "#908caa",
   "brightBlue": "#9ccfd8",
   "brightCyan": "#ea9a97",
   "brightGreen": "#3e8fb0",

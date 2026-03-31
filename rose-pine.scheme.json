@@ -1,8 +1,8 @@
 {
   "name": "rose-pine",
 
-  "cursorColor": "#555169",
-  "selectionBackground": "#2a2837",
+  "cursorColor": "#6e6a86",
+  "selectionBackground": "#403d52",
 
   "background": "#191724",
   "foreground": "#e0def4",
@@ -15,7 +15,7 @@
   "red": "#eb6f92",
   "white": "#e0def4",
   "yellow": "#f6c177",
-  "brightBlack": "#6e6a86",
+  "brightBlack": "#908caa",
   "brightBlue": "#9ccfd8",
   "brightCyan": "#ebbcba",
   "brightGreen": "#31748f",
