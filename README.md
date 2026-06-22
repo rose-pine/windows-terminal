@@ -23,6 +23,8 @@
         "profiles": {
             "defaults": {
                 "colorScheme": "rose-pine"
+                // or `"colorScheme": { "dark": "rose-pine", "light": "rose-pine-dawn"}` for
+                // separate color schemes for dark and light mode.
             }
         }
     }
@@ -33,6 +35,8 @@
     ```json
     {
         "theme": "rose-pine"
+        // or `"theme": { "dark": "rose-pine", "light": "rose-pine-dawn"}` for separate color
+        // schemes for dark and light mode.
     }
     ```
 
