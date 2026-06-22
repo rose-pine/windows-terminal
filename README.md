@@ -23,8 +23,7 @@
         "profiles": {
             "defaults": {
                 "colorScheme": "rose-pine"
-                // or `"colorScheme": { "dark": "rose-pine", "light": "rose-pine-dawn"}` for
-                // separate color schemes for dark and light mode.
+                // "colorScheme": { "dark": "rose-pine", "light": "rose-pine-dawn"}
             }
         }
     }
