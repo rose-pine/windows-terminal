@@ -34,8 +34,7 @@
     ```json
     {
         "theme": "rose-pine"
-        // or `"theme": { "dark": "rose-pine", "light": "rose-pine-dawn"}` for separate color
-        // schemes for dark and light mode.
+        // "theme": { "dark": "rose-pine", "light": "rose-pine-dawn"}
     }
     ```
 
